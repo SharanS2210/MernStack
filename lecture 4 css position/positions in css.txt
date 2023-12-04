@@ -1,0 +1,10 @@
+positions in css
+
+-static- compared to body
+
+-relative- comparison for child tag
+-absolute- comparison for parent tag
+
+fixed - fixed at one position but we have to define height and width
+sticky - fixed at one position 
+
